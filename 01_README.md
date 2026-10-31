@@ -35,7 +35,7 @@ My foundation is developing through input and output, variables, conditions, loo
 These newer topics still need deliberate review and hands-on experience. A working result is a starting point: I want to be able to explain the execution flow, identify limitations, make changes confidently, and reproduce the important ideas in a different project.
 Next steps toward junior developer skills
 As my understanding grows, I intend to:
-1. Complete and submit lessons based on the 00_ curriculum.
+1. Complete and submit lessons based on my Python_PortfolioCurriculum.md
 2. Revisit early projects to improve validation, readability, structure, and error handling.
 3. Build original variations that combine previous lessons and introduce a manageable new challenge.
 4. Develop stronger habits in debugging, testing, Git version control, dependency management, and documentation.
