@@ -27,6 +27,7 @@ Email Header Checker	Email parsing, helper functions, string processing, regular
 Browser Email Interface	HTML/CSS interface design, JavaScript events, browser file handling, promises, async / await, and running Python through Pyodide.	Tracing data between JavaScript and Python, understanding asynchronous execution, and handling loading or processing failures.
 Classified Gag / Gottcha Nose	Combining pages and scripts, embedded content, Base64 encoding, browser downloads, temporary files, and opening locally generated pages.	Understanding how the components connect, distinguishing encoded data from executing code, and making setup and launch behaviour clear to users.
 
+Vibecoding was NOT used during project research creation, however GPT.Sol.Lite was used to consult and educate for the frameworks of ClassifiedGag_Download.hmtl and EmailVerifyCSS.html
 
 Current learning stage
 My foundation is developing through input and output, variables, conditions, loops, basic functions, and HTML/CSS presentation. More recent projects introduce libraries, structured data, parsing, browser events, asynchronous operations, and interaction between languages.
