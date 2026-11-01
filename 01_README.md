@@ -29,6 +29,10 @@ Classified Gag / Gottcha Nose	Combining pages and scripts, embedded content, Bas
 
 Vibecoding was NOT used during project research creation, however GPT.Sol.Lite was used to consult and educate for the frameworks of ClassifiedGag_Download.hmtl and EmailVerifyCSS.html
 
+****************************************************************************************************************************
+  ClassifiedGag_Download.html is not malicious. It is prank software designed to showcase Redteam Applications; phishing; trogan horse tactics through pop up based ad funnels]
+****************************************************************************************************************************
+
 Current learning stage
 My foundation is developing through input and output, variables, conditions, loops, basic functions, and HTML/CSS presentation. More recent projects introduce libraries, structured data, parsing, browser events, asynchronous operations, and interaction between languages.
 
