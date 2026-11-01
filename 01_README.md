@@ -29,6 +29,8 @@ Classified Gag / Gottcha Nose	Combining pages and scripts, embedded content, Bas
 
 Vibecoding was NOT used during project research creation, however GPT.Sol.Lite was used to consult and educate for the frameworks of ClassifiedGag_Download.hmtl and EmailVerifyCSS.html
 
+EmailVerifyCSS.html is an example of a simple Blue team application; email sever ID will be shown in future beyond positive or negative.
+
 ****************************************************************************************************************************
   ClassifiedGag_Download.html is not malicious. It is prank software designed to showcase Redteam Applications; phishing; trogan horse tactics through pop up based ad funnels]
 ****************************************************************************************************************************
