@@ -1,5 +1,5 @@
 Basic Projects — My Learning Journey
-Alexander Anoee Langevin Belsey
+Alex Belsey
 Python · JavaScript · HTML · CSS
 Purpose
 This repository documents my development from basic programming exercises toward the knowledge and practical skills expected of a junior developer. Each project represents a stage in that journey: a new concept introduced, a problem explored, or an opportunity to apply earlier lessons in a more creative way.
