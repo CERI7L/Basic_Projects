@@ -1,6 +1,4 @@
-# Python through your portfolio
-## A project-based curriculum for Alexander Anoee Langevin Belsey
-
+# Python through the portfolio
 Prepared 31 October 2026 from the eleven supplied files.
 
 **Goal:** understand, explain, debug, change, and independently rebuild your projects, then add the engineering skills needed to apply for junior Python developer roles. Reading code is the starting point; independently solving a changed problem is the evidence of learning. Completing these projects alone does not guarantee job readiness or employment.
